@@ -6,11 +6,11 @@ import BurgerMenu from "./burgermenu";
 function Nav(props)
 {
     return (
-        <div className="bg-white md:col-span-1 imga md:flex md:justify-end">
+        <div className="bg-white md:col-span-1 md:flex md:justify-end imga">
           <nav className="text-right md:fixed">
             <div className="flex justify-between item-center">
-              <h1 className="a ">
-                <a href="https://www.amazon.in/">Food Ninja</a>
+              <h1 className="a">
+                <a href="https://www.amazon.in/">Food Fest</a>
               </h1>
               <BurgerMenu/>
             </div>

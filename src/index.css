@@ -31,8 +31,17 @@
 {
     @apply text-gray-800 font-bold uppercase p-4 ml-20
 }
+@media only screen and (min-width: 768px) {
 .imga{
     background-image: url("C:\Users\CHAKRI\OneDrive\Documents\chakri\projects\learn\recipes\src\images\wallpaper4.jpg");
     background-repeat: no-repeat;
     background-attachment:fixed;
 }
+}
+@media only screen and (max-width: 768px) {
+    .img{
+        background-image: url("C:\Users\CHAKRI\OneDrive\Documents\chakri\projects\learn\recipes\src\images\banner.jpg");
+        
+        
+    }
+    }
