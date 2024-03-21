@@ -41,9 +41,7 @@ function Popular(props) {
           <button onClick={() => handleButtonClick(pizzaRef, isPizza, setPizza)} className="px-3 py-2 m-2 mt-6 rounded-full bg-gray hover:shadow-inner">Load More</button>
         </div>
         <div className="card" ref={burgerRef}>
-          {/* Burger image and details go here */}
         </div>
-        {/* Load more button for burgers can be added here if needed */}
       </div>
     </div>
   );
