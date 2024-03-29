@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Recipe/static/css/main.4bc72214.css",
+    "main.js": "/Recipe/static/js/main.adcfcfef.js",
+    "static/media/chilli.jpg": "/Recipe/static/media/chilli.46e4c8da86cd573b3259.jpg",
+    "static/media/pepperoni.jpg": "/Recipe/static/media/pepperoni.508d103b6b1d1f05d7f5.jpg",
+    "static/media/turkey.jpg": "/Recipe/static/media/turkey.61e05f80c78e47a34443.jpg",
+    "static/media/Noodles.webp": "/Recipe/static/media/Noodles.3eb411a38e8b14898e89.webp",
+    "static/media/classic.jpg": "/Recipe/static/media/classic.cb4cbca1e12af0351762.jpg",
+    "static/media/chicken.jpg": "/Recipe/static/media/chicken.8519ee12f6de43a5cf2c.jpg",
+    "static/media/cheese.webp": "/Recipe/static/media/cheese.73cd6ea3eb5fe68f839a.webp",
+    "static/media/veg.jpg": "/Recipe/static/media/veg.12b89ea978ee884a8642.jpg",
+    "static/media/cheese.jpg": "/Recipe/static/media/cheese.aa79724d6ad461de0133.jpg",
+    "static/media/chicken.webp": "/Recipe/static/media/chicken.7f467a351d4b9bc99232.webp",
+    "static/media/Margherita.webp": "/Recipe/static/media/Margherita.e5b1523f10c9215b90c6.webp",
+    "static/media/wallpaper4.jpg": "/Recipe/static/media/wallpaper4.5615ab068e8aece6a7a9.jpg",
+    "static/media/pizz.jpg": "/Recipe/static/media/pizz.4da7ff84d822ddbdbc48.jpg",
+    "static/media/lamb.jpg": "/Recipe/static/media/lamb.3bb66994ea578c509d30.jpg",
+    "static/media/hamburger.jpg": "/Recipe/static/media/hamburger.607129eb19ec0adc3cc3.jpg",
+    "static/media/bbq.jpg": "/Recipe/static/media/bbq.553fb67f059fd2251bfc.jpg",
+    "index.html": "/Recipe/index.html",
+    "main.4bc72214.css.map": "/Recipe/static/css/main.4bc72214.css.map",
+    "main.adcfcfef.js.map": "/Recipe/static/js/main.adcfcfef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bc72214.css",
+    "static/js/main.adcfcfef.js"
+  ]
+}
