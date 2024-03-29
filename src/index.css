@@ -38,10 +38,3 @@
     background-attachment:fixed;
 }
 }
-@media only screen and (max-width: 768px) {
-    .img{
-        background-image: url("C:\Users\CHAKRI\OneDrive\Documents\chakri\projects\learn\recipes\src\images\banner.jpg");
-        
-        
-    }
-    }
